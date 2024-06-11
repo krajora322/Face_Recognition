@@ -1,4 +1,5 @@
-# Face_Recognition
+# Face_Recognition_Attendance_System
+
 In this python project, I have made an attendance system which takes attendance by using face recognition technique.
 
 Attendance Management System is an application developed for daily student attendance in colleges or. schools. This project attempts to record attendance through face detection.
